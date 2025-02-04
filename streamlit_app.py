@@ -48,4 +48,4 @@ if st.button("Query"):
 
 # Display the version number at the bottom of the app
 st.markdown("---")
-st.text("Version: 1.1")
+st.text("Version: 1.0")
